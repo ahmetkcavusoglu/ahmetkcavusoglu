@@ -9,7 +9,7 @@ I'm an embedded software engineer with a strong passion for low-level programmin
 - 🌱 I’m always learning and currently diving deep into advanced communication protocols and real-time operating systems.
 - 👯 I’m looking to collaborate on open-source projects that have a significant impact on the embedded systems community.
 - 💬 Ask me about anything related to embedded software engineering, real-time systems, or microcontroller-based development!
-- 📫 How to reach me: [Email](mailto:ahmetkemalcavusoglu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmetkemalcavusoglu)
+- 📫 📫 **How to Reach Me:** [Email](mailto:ahmetkemalcavusoglu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmetkemalcavusoglu)
 - ⚡ Fun fact: I love calligraphy and enjoy experimenting with different lettering styles!
 
 ## 🚀 Skills
